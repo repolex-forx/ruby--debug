@@ -1,0 +1,11 @@
+{
+  "org": "ruby",
+  "repo": "debug",
+  "versions": [
+    {
+      "commit": "6510cfbc7496c55ebbefa437a25c17ca58f7c5eb",
+      "tag": "",
+      "parsed_at": "2026-11-10T05:25:00.933634+00:00"
+    }
+  ]
+}
