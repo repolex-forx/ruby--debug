@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ruby/debug/commit/6510cfbc7496c55ebbefa437a25c17ca58f7c5eb",
       "git:hexsha": "6510cfbc7496c55ebbefa437a25c17ca58f7c5eb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ruby/debug/commit/73f99f4be0c736ac3ee8492065642f14ee1d45c1",
